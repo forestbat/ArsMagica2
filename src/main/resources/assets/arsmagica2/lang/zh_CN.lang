@@ -1181,9 +1181,9 @@ compendium.talent.spell_motion.name=灵活施法
 
 compendium.affinity_gains.page1=你确信了元素调和比奥术知识更重要。 现在你获取亲和力的速度将比以往更快， 代价是魔法经验的获取会更慢。 这将是一个永久性影响。
 compendium.augmented_casting.page1=你明白了如何将自己的每一部分都投入到法术咏唱中。 现在你所有的法术都变得更加强力， 比如持续时间更长， 范围更大， 以及伤害更高。
-compendium.extra_summon.page1=当你能让其他生物帮你做事时， 你为什么还要自己动手呢？现在，你能额外召唤/魅惑一个生物，或者额外雇佣一个白魔法师 (如果你拥有 #5聚魔之誉#0 天赋的话)
-compendium.mage_posse_i.page1=你作为一个魔法师的才能给了他人深刻的印象， 在人们还没见到你之前， 人们就会通过你的名誉了解你。 现在你能请求一个白魔法师跟随并保护你。 跟随的白魔法师同时也会使你的召唤物上限减少。
-compendium.mage_posse_ii.page1=魔法师们对你的信任已经到了即使将自己的魔力与你的魔力进行连接也不会感到不安全的程度。 现在，只要和白魔法师成为了同伴， 他们都会和你进行魔力连接。
+compendium.extra_summon.page1=当你能让其他生物帮你做事时， 你为什么还要自己动手呢？现在，你能额外召唤/魅惑一个生物，或者额外雇佣一个光之魔法师 (如果你拥有 #5聚魔之誉#0 天赋的话)
+compendium.mage_posse_i.page1=你作为一个魔法师的才能给了他人深刻的印象， 在人们还没见到你之前， 人们就会通过你的名誉了解你。 现在你能请求一个光之魔法师跟随并保护你。 跟随的光之魔法师同时也会使你的召唤物上限减少。
+compendium.mage_posse_ii.page1=魔法师们对你的信任已经到了即使将自己的魔力与你的魔力进行连接也不会感到不安全的程度。 现在，只要和光之魔法师成为了同伴， 他们都会和你进行魔力连接。
 compendium.mana_regen_i.page1=你与流经你体内的能量更加协调了。 现在你的魔力恢复速度比普通魔法师快一点。
 compendium.mana_regen_ii.page1=你与流经你体内的能量更加协调了。现在你的魔力恢复速度比普通魔法师快不少。 魔力恢复提升II会覆盖魔力恢复提升I的效果。
 compendium.mana_regen_iii.page1=你与流经你体内的能量更加协调了。 现在你的魔力恢复速度比普通魔法师快相当多。 魔力恢复提升III会覆盖魔力恢复提升II的效果。
@@ -1738,32 +1738,32 @@ compendium.inscription_upgrades.page1=These upgrades improve the functionality o
 
 #Mobs
 
-compendium.category.mob.name=Mobs
-compendium.category.mob.flicker.name=Flickers
+compendium.category.mob.name=生物
+compendium.category.mob.flicker.name=闪光
 
-compendium.mob.hecate.name=Hecate
-compendium.mob.mana_elemental.name=Mana Elemental
-compendium.mob.mana_creeper.name=Mana Creeper
-compendium.mob.light_mage.name=Light Mage
-compendium.mob.dark_mage.name=Dark Mage
-compendium.mob.fire_elemental.name=Fire Elemental
-compendium.mob.water_elemental.name=Water Elemental
-compendium.mob.earth_elemental.name=Earth Elemental
-compendium.mob.dryad.name=Dryad
-compendium.mob.darkling.name=Darkling
-compendium.mob.hellcow.name=Hell Cow
+compendium.mob.hecate.name=赫卡特
+compendium.mob.mana_elemental.name=魔力元素
+compendium.mob.mana_creeper.name=魔力苦力怕
+compendium.mob.light_mage.name=光之魔法师
+compendium.mob.dark_mage.name=暗之魔法师
+compendium.mob.fire_elemental.name=火之元素
+compendium.mob.water_elemental.name=水之元素
+compendium.mob.earth_elemental.name=地之元素
+compendium.mob.dryad.name=树精
+compendium.mob.darkling.name=黑暗之影
+compendium.mob.hellcow.name=地狱奶牛
 
-compendium.hecate.page1=The hecate is a dark spirit from the nether. Occasionally, the walls between the Nether and the Overworld can weaken, allowing the Hecates to spawn in the overworld. The hecate is an assassin - it moves extremely fast and can turn invisible briefly when attacking. They deal a large amount of damage, but thankfully don't have much in terms of resilience It's rumored that if you move slowly and quietly enough, you can pass by them undetected as long as you don't get too close.
-compendium.mana_elemental.page1=The mana elemental is a combination of vinteum shards held together by bolts of Etherium. They are towering creatures, often reaching 3m in height. They attack with bolts of raw mana that lash out, dealing minor damage but stealing mana, and return to the elemental, healing it based on the amount of mana stolen. They are highly resistant to physical damage. If all the mana is drained from the elemental, it will die.
-compendium.mana_creeper.page1=The mana creeper is a variant on the normal creeper, but instead of a violent explosion, the mana creeper disintegrates into a mana vortex, which will drain the mana of everything nearby. The vortex grows the longer it lives, but luckily all of them don't last for more than a few seconds. The vortex drains more mana the more you have, so it is still a threat to even the most powerful of magi.
-compendium.light_mage.page1=Light magi are part of the white council. They are powerful mages who have dedicated themselves to the forces of light. They will heal friendly players and assist them in combat against the various enemies that plague the world of Minecraft. They have a special distaste for Dark Mages.
-compendium.dark_mage.page1=Dark magi are part of the Black Court. They are sinister casters who are capable of terrifying feats of magic. These feats come at a price though, dark magi are reviled and twisted beings. They will fight anything living except the undead (which tehnically aren't "living" anyways) and creepers. They will go out of their way to fight a Light Mage.
-compendium.fire_elemental.page1=Fire elementals are beings of pure fire. They are destructive and ignite anything in their path. Fire Elementals are only found in the nether.
-compendium.water_elemental.page1=Water elementals are beings of pure water. They are found anywhere water is in abundance. They attack in groups, using water to push and pull their target. They can affect their targets with Watery Grave, which will pull unsuspecting down to the crushing black depths.
-compendium.earth_elemental.page1=Earth elementals are found slumbering deep within caves. They are passive by nature, and boast an extreme resistance to physical damage. Combined with a high health pool, anyone learning to summon one could conjure up a veritable tank. Their attacks force the target to focus on them and they will try to bounce from target to target.
-compendium.dryad.page1=Dryads are peaceful creatures often found in forests and grasslands. They can be lured with a sapling and will periodically make nearby plants grow faster.
-compendium.darkling.page1=Darklings are small dog-like creatures that are found in the nether. Their body becomes less visible during night, fading to near invsibility at midnight. As dawn approaches, the Darklings will begin to gradually appear again until they become fully visible again for the day.
-compendium.hellcow.page1=Moo? Moo moo moo, moo moo moo moo. Moo. Moo moo moo moo moo, moo moo moo? Moo! Moo moo moo moo moo - moo moo moo. !d 1.) Moo moo moo moo !d 2.) Moo, moo moo moo moo. !d 3.) Moo! !d Moo, moo moo moo, moo moo moo. Moo moo moo moo moo moo. Moo, moo!
+compendium.hecate.page1=赫卡特是来自下界的黑暗精神体。 偶然的， 下界与主世界间的次元壁会暂时变得薄弱， 让赫卡特有时也能出现在主世界。 赫卡特是致命的刺客 - 它的移动速度极其快速， 在攻击时还能使自己短暂隐身。 它们会造成大量伤害， 但值得感激的是它们不算太坚韧。 传闻你只要移动的够慢够小声， 你就能在不被它发现的情况下通过它， 当然你也不能靠它太近了。
+compendium.mana_elemental.page1=魔力元素是在乙金的冲击下结合在一起的特姆碎片的集合体。 它们是高大的生物， 通常能有3m高。 魔力元素用原生魔力组合成闪电进行猛击， 虽然只会造成轻微的伤害但是会窃取魔力并将魔力回归为元素， 并根据窃取到的魔力量来治愈自己。 它们有很强的物理抗性。 如果元素中所有的魔力都被吸走了， 它们就会消散。
+compendium.mana_creeper.page1=魔力苦力怕是普通苦力怕的变种， 但魔力苦力怕并不会激动到炸裂， 取而代之的是，魔力苦力怕会裂解成魔力旋涡， 从旁边的所有物体中吸取魔力。 旋涡会随着存在时间的增加而扩大， 幸运的是所有旋涡都只会存在数秒。 你拥有的魔力越多，旋涡吸取的魔力就越多， 因此即使是对于最强大的魔法师来说它们也是个威胁。
+compendium.light_mage.page1=光之魔法师是白议会的成员。 它们是献身于光明力量的强大魔法师。 在对抗那些使Minecraft世界陷入灾祸的敌人的战斗中， 它们会治愈并辅助友方玩家。 它们特别的厌恶暗之魔法师。  !d  “圣光啊，这个直人敌得一战！”
+compendium.dark_mage.page1=暗之魔法师是黑法院的成员。 它们是能施展出骇人魔法技能的阴险魔法师。 然而作为获得这些技能的代价， 暗之魔法师成为了被世人斥骂的扭曲存在。 他们会攻击任何活着的生物除了不死族 (从技术上来说也不算 "活着" ) 和苦力怕。 他们会想尽办法和光之魔法师战斗。
+compendium.fire_elemental.page1=火之元素由纯粹的火焰构成。 他们会点燃经过的一切， 非常具有破坏性。 火之元素只能在下界找到。  !d  “リア充爆発しろ！”“哞！”
+compendium.water_elemental.page1=水之元素是由纯净的水构成的。 在任意一个有大量水的地方都能找到它们。 它们通常是群体进攻， 用水把它们的目标拽过来推过去拽过来推过去。 它们能用水的兆宅影响它们的目标, 将其拉到无法预料的压倒性的黑暗深处中。
+compendium.earth_elemental.page1=在洞穴中能找到深深沉睡的地之元素。 自然来说它们是中立生物， 拥有着引以为豪的极高物理抗性， 加上它的高生命值， 任何一个学习过召唤它的人都能随地召唤一个真正的T。 它们的攻击会向目标施加嘲讽， 并且会尝试在目标之间冲撞反弹。
+compendium.dryad.page1=树精是和平的生物， 通常在森林里和草原上能找到它们。 它们会被树苗引诱， 还会不定期的催生周围的植物。
+compendium.darkling.page1=黑暗之影是一种类似狗的小型生物，能在地狱找到它们。 它们的身体在夜晚时会越来越透明， 逐渐褪色，到午夜就几乎看不见了。 黎明到来时， 黑暗之影会渐渐的再次现形， 直到能在白天完全看到它们。
+compendium.hellcow.page1=哞？ 哞哞哞， 哞哞哞哞。 哞。 哞哞哞哞哞， 哞哞哞？ 哞！ 哞哞哞哞哞 - 哞哞哞。 !d 1.) 哞哞哞哞 !d 2.) 哞， 哞哞哞哞。 !d 3.) 哞！ !d 哞， 哞哞哞， 哞哞哞。 哞哞哞哞哞哞。 哞，哞！  !d 等一下，哞字怎么写来着…… !d 顺便一提，它们的角一砍下来就是自带附魔的， 可以喂给[数据删除]的发电机
 
 compendium.mob.flicker.flickers.name=Flickers
 compendium.mob.flicker.water_flicker.name=Water Flicker
