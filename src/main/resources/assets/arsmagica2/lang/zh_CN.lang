@@ -1167,22 +1167,22 @@ compendium.colour.page1=This modifier allows you to change the color of the part
 
 #Talents
 
-compendium.category.talent.name=Talents
+compendium.category.talent.name=天赋
 
-compendium.talent.affinity_gains.name=Affinity Gains Boost
-compendium.talent.augmented_casting.name=Augmented Casting
-compendium.talent.extra_summon.name=Extra Summon
-compendium.talent.mage_posse_i.name=Mage Posse I
-compendium.talent.mage_posse_ii.name=Mage Posse II
-compendium.talent.mana_regen_i.name=Mana Regen Boost I
-compendium.talent.mana_regen_ii.name=Mana Regen Boost II
-compendium.talent.mana_regen_iii.name=Mana Regen Boost III
-compendium.talent.spell_motion.name=Spell Mouvement
+compendium.talent.affinity_gains.name=亲和力获取提升
+compendium.talent.augmented_casting.name=增广法术咏唱
+compendium.talent.extra_summon.name=额外召唤
+compendium.talent.mage_posse_i.name=聚魔之誉 I
+compendium.talent.mage_posse_ii.name=聚魔之誉 II
+compendium.talent.mana_regen_i.name=魔力恢复提升 I
+compendium.talent.mana_regen_ii.name=魔力恢复提升 II
+compendium.talent.mana_regen_iii.name=魔力恢复提升 III
+compendium.talent.spell_motion.name=移动施法
 
-compendium.affinity_gains.page1=You have decided that elemental attunement is more important than arcane knowledge. You can receive a boost to affinity gains in exchange for slower magic XP gain. This is a permanent effect.
-compendium.augmented_casting.page1=You have figured out how to put everything you have into a spell cast. All of your spells are more powerful. Durations are longer, radii are bigger, and damage is increased.
-compendium.extra_summon.page1=Why do things yourself when you can have others do them for you? You can now have one additional summoned/charmed creature or recruited mage (if you have the #5Mage Posse#0 talent)
-compendium.mage_posse_i.page1=Your talents as a mage have impressed others, and your reputation precedes you. You can request that a light mage follow and guard you. This counts against your summon cap.
+compendium.affinity_gains.page1=你确信了元素调和比奥术知识更重要。 现在你能得到一个亲和力获取速度的提升， 代价是魔法经验的获取会更慢。 这将是一个永久性影响。
+compendium.augmented_casting.page1=你明白了如何将肉体和心灵的每一部分投入到法术咏唱中。 现在你所有的法术都变得更加强力， 比如持续时间更长， 范围更大， 以及伤害更高。
+compendium.extra_summon.page1=当你能让其他生物帮你做事时， 你为什么还要自己动手呢？现在，你能额外召唤/魅惑一个生物，或者额外雇佣一个白魔法师 (如果你拥有#5聚魔之誉#0天赋的话)
+compendium.mage_posse_i.page1=你作为一个魔法师的才能给了他人深刻的印象， 在人们还没见到你之前， 人们就会通过你的名誉了解你。 现在你能请求一个白魔法师跟随并保护你。 This counts against your summon cap.
 compendium.mage_posse_ii.page1=You have gained the trust of other mages to the point that they feel safe linking their magic to yours. Whenever you befriend a light mage, they will mana link to you.
 compendium.mana_regen_i.page1=You are more attuned with the energy flowing through you. Your magic regenerates slightly faster than normal.
 compendium.mana_regen_ii.page1=You are more attuned with the energy flowing through you. Your magic regenerates faster than normal. This replaces the bonus given by Mana Regen Boost I
