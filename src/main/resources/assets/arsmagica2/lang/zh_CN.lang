@@ -1339,10 +1339,10 @@ compendium.category.structure.name=多方块结构
 compendium.structure.crafting_altar_structure.name=创法祭坛
 compendium.structure.gateway.name=时空之门
 
-compendium.crafting_altar_structure.page1=创法祭坛利用创造之力， 让魔法师们能造就魔法的奇迹。 在魔法艺术中，这里就是你创造所有法术的地方。 The structure is upgradeable by 2 main groups, the caps and the main material. Both groups individually increase the available power of the altar and allow it to make more powerful spells. The main blocks and the caps (grand total of 5 in the structure).
-compendium.crafting_altar_structure.page2=These stack cumulatively, so for example wood planks with glass caps would equal a maximum of 2 effects, whereas stone bricks with redstone caps would have a maximum of 4 effects in a spell.
-compendium.gateway.page1=Gateways are quite efficient at short range, but longer distances require significantly more Etherium. The maximum range for a Gateway has been tested to be roughly 12km, though an extreme amount of Etherium is required to traverse such a span. A keystone can be inserted into the Keystone Receptacle in order to lock the gateway to the keystone's rune combination.
-compendium.gateway.page2=Only then by activating another gateway with a matching keystone can one arrive at the keyed gateway. If the key does not match or no keystone is held at all when the gate is activated, it will be as if the keyed gateway doesn't even exist. This method can be used to control where you will wind up in the gateway network.
+compendium.crafting_altar_structure.page1=创法祭坛利用创造之力， 让魔法师们能造就魔法的奇迹。 在魔法艺术中，这里就是你创造所有法术的地方。 这个结构能被两类方块升级， 顶部材料和主要材料。 两类方块都可以分别提升祭坛的能力， 使其能创造出更强大的法术。
+compendium.crafting_altar_structure.page2=升级可以累积叠加， 比如主要材料是木板，顶部材料是玻璃，这样创造的每个法术中最多有2种效果， 然而用石砖做主要材料， 红石做顶部材料， 这样创造的每个法术中做多能有4种效果。
+compendium.gateway.page1=用时空之门进行短途旅行是非常有效率的， 但长途旅行就会消耗相当多的乙金。 据测试，时空之门的最远传送距离大致有12km， 但是跨越这么大范围的空间需要数量极其庞大的乙金。 将楔石插到楔石插槽中， 就能用楔石的符文组合（即“键”）锁住时空之门。
+compendium.gateway.page2=用已经有键的楔石去激活另一个不匹配的时空之门， 你就能到达相匹配的时空之门。 当时空之门激活时，如果楔石的键不匹配或者你根本没拿上楔石， 它就会把有键的时空之门当做不存在。 这种特性能让你在时空之门网络中控制自己将会飞到的地方。
 
 #Blocks
 
