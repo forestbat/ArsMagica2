@@ -57,16 +57,16 @@ item.arsmagica2:rune.black.name=黑符文
 item.arsmagica2:chalk.name=巫师粉笔
 
 am2.spell.validate.compMiss=至少需要一个要素.
-am2.spell.validate.principum=原始的形状，为了起到功能需要在此后添加一个目标形状。查看摘要获得更多信息.
-am2.spell.validate.terminus=is a Terminus shape and any shapes after it will not apply.  See the compendium for more info.
+am2.spell.validate.principum=原始的形态，为了起到功能需要在此后添加一个目标形态。 查看摘要获得更多信息。
+am2.spell.validate.terminus=最终形态且不会再有任何后续形态。  查看摘要获得更多信息。
 
-item.arsmagica2:FlickerFocusPrefix=Flicker Focus: %s
-item.arsmagica2:FlickerOperatorButchery.name=Butchery
-item.arsmagica2:FlickerOperatorContainment.name=Containment
-item.arsmagica2:FlickerOperatorFelledOak.name=Felled Oak
-item.arsmagica2:FlickerOperatorFishing.name=Fishing
-item.arsmagica2:FlickerOperatorFlatLands.name=Flat Lands
-item.arsmagica2:FlickerOperatorGentleRains.name=Gentle Rains
+item.arsmagica2:FlickerFocusPrefix=闪光聚焦: %s
+item.arsmagica2:FlickerOperatorButchery.name=屠宰
+item.arsmagica2:FlickerOperatorContainment.name=收纳
+item.arsmagica2:FlickerOperatorFelledOak.name=伐木
+item.arsmagica2:FlickerOperatorFishing.name=钓鱼
+item.arsmagica2:FlickerOperatorFlatLands.name=平整
+item.arsmagica2:FlickerOperatorGentleRains.name=消雨
 item.arsmagica2:FlickerOperatorInterdiction.name=Interdiction
 item.arsmagica2:FlickerOperatorItemTransport.name=Item Transport
 item.arsmagica2:FlickerOperatorLight.name=Light
