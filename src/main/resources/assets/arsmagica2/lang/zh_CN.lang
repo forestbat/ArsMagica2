@@ -1177,24 +1177,24 @@ compendium.talent.mage_posse_ii.name=聚魔之誉 II
 compendium.talent.mana_regen_i.name=魔力恢复提升 I
 compendium.talent.mana_regen_ii.name=魔力恢复提升 II
 compendium.talent.mana_regen_iii.name=魔力恢复提升 III
-compendium.talent.spell_motion.name=移动施法
+compendium.talent.spell_motion.name=灵活施法
 
 compendium.affinity_gains.page1=你确信了元素调和比奥术知识更重要。 现在你能得到一个亲和力获取速度的提升， 代价是魔法经验的获取会更慢。 这将是一个永久性影响。
 compendium.augmented_casting.page1=你明白了如何将肉体和心灵的每一部分投入到法术咏唱中。 现在你所有的法术都变得更加强力， 比如持续时间更长， 范围更大， 以及伤害更高。
 compendium.extra_summon.page1=当你能让其他生物帮你做事时， 你为什么还要自己动手呢？现在，你能额外召唤/魅惑一个生物，或者额外雇佣一个白魔法师 (如果你拥有#5聚魔之誉#0天赋的话)
-compendium.mage_posse_i.page1=你作为一个魔法师的才能给了他人深刻的印象， 在人们还没见到你之前， 人们就会通过你的名誉了解你。 现在你能请求一个白魔法师跟随并保护你。 This counts against your summon cap.
-compendium.mage_posse_ii.page1=You have gained the trust of other mages to the point that they feel safe linking their magic to yours. Whenever you befriend a light mage, they will mana link to you.
-compendium.mana_regen_i.page1=You are more attuned with the energy flowing through you. Your magic regenerates slightly faster than normal.
-compendium.mana_regen_ii.page1=You are more attuned with the energy flowing through you. Your magic regenerates faster than normal. This replaces the bonus given by Mana Regen Boost I
-compendium.mana_regen_iii.page1=You are more attuned with the energy flowing through you. Your magic regenerates much faster than normal. This replaces the bonus given by Mana Regen Boost II.
-compendium.spell_motion.page1=You have realized that agility is key. To that end, you have trained yourself to be able to move at normal speed while using a spell.
+compendium.mage_posse_i.page1=你作为一个魔法师的才能给了他人深刻的印象， 在人们还没见到你之前， 人们就会通过你的名誉了解你。 现在你能请求一个白魔法师跟随并保护你。 跟随的白魔法师同时也会使你的召唤物上限减少。
+compendium.mage_posse_ii.page1=魔法师们对你的信任已经到了即使将自己的魔力与你的魔力进行连接也不会感到不安全的程度。 现在，只要和白魔法师成为了同伴， 他们都会和你进行魔力连接。
+compendium.mana_regen_i.page1=你与流经你体内的能量更加协调了。 现在你的魔力恢复速度比普通魔法师快一点。
+compendium.mana_regen_ii.page1=你与流经你体内的能量更加协调了。现在你的魔力恢复速度比普通魔法师快不少。 魔力恢复提升II会覆盖魔力恢复提升I的效果。
+compendium.mana_regen_iii.page1=你与流经你体内的能量更加协调了。 现在你的魔力恢复速度比普通魔法师快相当多。 魔力恢复提升III会覆盖魔力恢复提升II的效果。
+compendium.spell_motion.page1=你理解到敏捷才是关键。 最终， 你将自己训练成能够保持通常移动速度施法的魔法师。
 
 #Guides
 
-compendium.category.guide.name=Guides
+compendium.category.guide.name=引言
 
-compendium.guide.your_first_spell.name=Your First Spell
-compendium.your_first_spell.page1=Your First Spell !d To make a spell, you will first need to create an #5Occulus#0 and unlock at least one spell shape and one component. You start with three blue skill points to make this possible. Then, craft a writable book and head over to your #5Inscription Table#0. Place the book in the inscription table.
+compendium.guide.your_first_spell.name=你的第一个法术
+compendium.your_first_spell.page1=你的第一个法术 !d 要构筑一个法术， you will first need to create an #5Occulus#0 and unlock at least one spell shape and one component. You start with three blue skill points to make this possible. Then, craft a writable book and head over to your #5Inscription Table#0. Place the book in the inscription table.
 compendium.your_first_spell.page2=There are three sections of the Inscription Table UI that are of note. The source region is the large grey square at the top, and will contain all of your known shapes, components, and modifiers. The Shape Group section is identified by brown squares. There are multiple brown squares as multiple shape groups can be created. Finally there is the Spell Grammar section, which is the gray rectangle at the bottom.
 compendium.your_first_spell.page3=Create #5Shape Groups#0 by dragging shapes and/or modifiers from the source region to any of the shape groups in the UI. You can create multiple shape groups in the same spell, three by default. Each shape group can have up to four shapes/modifiers. Shape groups cannot contain components. A good way to think about it is that shape groups are different means of targeting things with the spell, then the spell grammar is what the spell actually does.
 compendium.your_first_spell.page4=Once your shape groups are created, drag the spell parts you want, in order, from the source region to the spell grammar section. The spell grammar section can contain spell shapes, components, and modifiers in addition to the shape groups. Once your combination is completed, go to your #5Crafting Altar#0 and place your book containing the spell recipe on the lectern.
