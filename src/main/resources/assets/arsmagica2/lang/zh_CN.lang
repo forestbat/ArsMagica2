@@ -10,7 +10,7 @@ affinity.earth=大地
 affinity.ice=冰
 affinity.ender=末影
 
-fluid.liquid_essence=源质液
+fluid.liquid_essence=精华液
 
 #Item Names
 
@@ -54,7 +54,7 @@ item.arsmagica2:rune.green.name=绿符文
 item.arsmagica2:rune.red.name=红符文
 item.arsmagica2:rune.black.name=黑符文
 
-item.arsmagica2:chalk.name=巫师粉笔
+item.arsmagica2:chalk.name=法师粉笔
 
 am2.spell.validate.compMiss=至少需要一个要素.
 am2.spell.validate.principum=原始构型，为了起到作用需要在其后添加目标构型。参阅魔艺要术以获得详细信息.。
@@ -1167,38 +1167,38 @@ compendium.colour.page1=This modifier allows you to change the color of the part
 
 #Talents
 
-compendium.category.talent.name=Talents
+compendium.category.talent.name=天赋
 
-compendium.talent.affinity_gains.name=Affinity Gains Boost
-compendium.talent.augmented_casting.name=Augmented Casting
-compendium.talent.extra_summon.name=Extra Summon
-compendium.talent.mage_posse_i.name=Mage Posse I
-compendium.talent.mage_posse_ii.name=Mage Posse II
-compendium.talent.mana_regen_i.name=Mana Regen Boost I
-compendium.talent.mana_regen_ii.name=Mana Regen Boost II
-compendium.talent.mana_regen_iii.name=Mana Regen Boost III
-compendium.talent.spell_motion.name=Spell Mouvement
+compendium.talent.affinity_gains.name=亲和力增幅
+compendium.talent.augmented_casting.name=增广法术咏唱
+compendium.talent.extra_summon.name=额外召唤
+compendium.talent.mage_posse_i.name=聚魔之誉 I
+compendium.talent.mage_posse_ii.name=聚魔之誉 II
+compendium.talent.mana_regen_i.name=魔力恢复 I
+compendium.talent.mana_regen_ii.name=魔力恢复 II
+compendium.talent.mana_regen_iii.name=魔力恢复 III
+compendium.talent.spell_motion.name=灵活施法
 
-compendium.affinity_gains.page1=You have decided that elemental attunement is more important than arcane knowledge. You can receive a boost to affinity gains in exchange for slower magic XP gain. This is a permanent effect.
-compendium.augmented_casting.page1=You have figured out how to put everything you have into a spell cast. All of your spells are more powerful. Durations are longer, radii are bigger, and damage is increased.
-compendium.extra_summon.page1=Why do things yourself when you can have others do them for you? You can now have one additional summoned/charmed creature or recruited mage (if you have the #5Mage Posse#0 talent)
-compendium.mage_posse_i.page1=Your talents as a mage have impressed others, and your reputation precedes you. You can request that a light mage follow and guard you. This counts against your summon cap.
-compendium.mage_posse_ii.page1=You have gained the trust of other mages to the point that they feel safe linking their magic to yours. Whenever you befriend a light mage, they will mana link to you.
-compendium.mana_regen_i.page1=You are more attuned with the energy flowing through you. Your magic regenerates slightly faster than normal.
-compendium.mana_regen_ii.page1=You are more attuned with the energy flowing through you. Your magic regenerates faster than normal. This replaces the bonus given by Mana Regen Boost I
-compendium.mana_regen_iii.page1=You are more attuned with the energy flowing through you. Your magic regenerates much faster than normal. This replaces the bonus given by Mana Regen Boost II.
-compendium.spell_motion.page1=You have realized that agility is key. To that end, you have trained yourself to be able to move at normal speed while using a spell.
+compendium.affinity_gains.page1=你确信了元素调和比奥术知识更重要。 现在你获取亲和力的速度将比以往更快， 代价是魔法经验的获取会更慢。 这将是一个永久性影响。
+compendium.augmented_casting.page1=你明白了如何将自己的每一部分都投入到法术咏唱中。 现在你所有的法术都变得更加强力， 比如持续时间更长， 范围更大， 以及伤害更高。
+compendium.extra_summon.page1=当你能让其他生物帮你做事时， 你为什么还要自己动手呢？现在，你能额外召唤/魅惑一个生物，或者额外雇佣一个光之魔法师 (如果你拥有 #5聚魔之誉#0 天赋的话)
+compendium.mage_posse_i.page1=你作为一个魔法师的才能给了他人深刻的印象， 在人们还没见到你之前， 人们就会通过你的名誉了解你。 现在你能请求一个光之魔法师跟随并保护你。 跟随的光之魔法师同时也会使你的召唤物上限减少。
+compendium.mage_posse_ii.page1=魔法师们对你的信任已经到了即使将自己的魔力与你的魔力进行连接也不会感到不安全的程度。 现在，只要和光之魔法师成为了同伴， 他们都会和你进行魔力连接。
+compendium.mana_regen_i.page1=你与流经你体内的能量更加协调了。 现在你的魔力恢复速度比普通魔法师快一点。
+compendium.mana_regen_ii.page1=你与流经你体内的能量更加协调了。现在你的魔力恢复速度比普通魔法师快不少。 魔力恢复提升II会覆盖魔力恢复提升I的效果。
+compendium.mana_regen_iii.page1=你与流经你体内的能量更加协调了。 现在你的魔力恢复速度比普通魔法师快相当多。 魔力恢复提升III会覆盖魔力恢复提升II的效果。
+compendium.spell_motion.page1=你理解到敏捷才是关键。 最终， 你将自己训练成能够保持通常移动速度施法的魔法师。
 
 #Guides
 
-compendium.category.guide.name=Guides
+compendium.category.guide.name=引言
 
-compendium.guide.your_first_spell.name=Your First Spell
-compendium.your_first_spell.page1=Your First Spell !d To make a spell, you will first need to create an #5Occulus#0 and unlock at least one spell shape and one component. You start with three blue skill points to make this possible. Then, craft a writable book and head over to your #5Inscription Table#0. Place the book in the inscription table.
-compendium.your_first_spell.page2=There are three sections of the Inscription Table UI that are of note. The source region is the large grey square at the top, and will contain all of your known shapes, components, and modifiers. The Shape Group section is identified by brown squares. There are multiple brown squares as multiple shape groups can be created. Finally there is the Spell Grammar section, which is the gray rectangle at the bottom.
-compendium.your_first_spell.page3=Create #5Shape Groups#0 by dragging shapes and/or modifiers from the source region to any of the shape groups in the UI. You can create multiple shape groups in the same spell, three by default. Each shape group can have up to four shapes/modifiers. Shape groups cannot contain components. A good way to think about it is that shape groups are different means of targeting things with the spell, then the spell grammar is what the spell actually does.
-compendium.your_first_spell.page4=Once your shape groups are created, drag the spell parts you want, in order, from the source region to the spell grammar section. The spell grammar section can contain spell shapes, components, and modifiers in addition to the shape groups. Once your combination is completed, go to your #5Crafting Altar#0 and place your book containing the spell recipe on the lectern.
-compendium.your_first_spell.page5=Throw a #5blank rune#0 into the middle of the crafting altar to begin the process, then follow the book's prompts. The book itself is worth reading as well, as it contains a recap of what the spell recipe is for, the materials list for the spell and an affinity breakdown of the spell. Note that certain crafting altars can only craft spells that are so powerful. Too much power and bad things can happen. See the entry on the #5Crafting Altar#0 for more information.
+compendium.guide.your_first_spell.name=你的第一个法术
+compendium.your_first_spell.page1=你的第一个法术 !d 要构筑一个法术， 你需要先做出一个 #5全知之眼#0 并在里面解锁最少一个法术构型和法术构件。 出生自带的3个蓝色技能点让上述操作成为了可能。 然后，做一本书与笔，来到你的 #5铭文桌#0 前。 将书放在铭文桌上。
+compendium.your_first_spell.page2=显然，在铭文台的UI里有三个部分。 在顶部的灰色大方格是法术资源区,  包含了所有你已知的法术构型，法术构件和法术饰件。 法术构型组区被用棕色方块标识了出来。 这个部分里有多个棕色方块，这样你就能够创建多个法术构型组。 最后是法术语法区， 也就是底部的灰色长条。
+compendium.your_first_spell.page3=在UI里将法术构型和/或法术饰件从法术资源区拖到法术构型组区， 你就创建了一个 #5法术构型组#0 。 你可以在同一个法术里创建多个法术构型组，默认最多3个， 每个法术构型组最多能容乃4个法术构型或法术饰件。 法术构型组不能容纳法术构件， 比较好的解释就是：法术构型组决定了法术所针对的目标， 而法术语法则决定了法术具体要干什么。
+compendium.your_first_spell.page4=当你创建好了法术构型组后， 将你想要的法术部件（包括构型，构件和饰件）按顺序从法术资源区拖到法术语法区。 法术语法区能够容纳法术构型， 法术构件以及法术饰件以作为法术构型组的补充。当你组合完毕后， 来到你的 #5创法祭坛#0 前，将你刚写好的法术配方书放进讲台。
+compendium.your_first_spell.page5=将一个 #5空白符文#0 扔在祭坛中间就会开始创造法术的过程， 然后跟着书的提示加入相应的东西，如果要加入能量的话要拉一下拉杆。 这本书的内容本身也值得看一看， 它包含了一些简明扼要的信息， 比如这个法术配方所需物品及能量的清单， 还有这个法术对亲和力的影响。 注意每个创法祭坛只能创造等级比自己低的法术。 如果法术太强了会有不好的事情发生。 你可以在 #5创法祭坛#0 条目找到更多信息。
 
 #Mechanics
 
@@ -1334,15 +1334,15 @@ compendium.imbuement_light_step.page1=The Light Step Imbuement automatically cau
 
 #Structures
 
-compendium.category.structure.name=Structures
+compendium.category.structure.name=多方块结构
 
-compendium.structure.crafting_altar_structure.name=Crafting Altar
-compendium.structure.gateway.name=Gateway
+compendium.structure.crafting_altar_structure.name=创法祭坛
+compendium.structure.gateway.name=时空之门
 
-compendium.crafting_altar_structure.page1=Harnessing the forces of creation, the crafting altar allows mages to work miracles of magic. This is where you will create all of your spells in Ars Magica. The structure is upgradeable by 2 main groups, the caps and the main material. Both groups individually increase the available power of the altar and allow it to make more powerful spells. The main blocks and the caps (grand total of 5 in the structure).
-compendium.crafting_altar_structure.page2=These stack cumulatively, so for example wood planks with glass caps would equal a maximum of 2 effects, whereas stone bricks with redstone caps would have a maximum of 4 effects in a spell.
-compendium.gateway.page1=Gateways are quite efficient at short range, but longer distances require significantly more Etherium. The maximum range for a Gateway has been tested to be roughly 12km, though an extreme amount of Etherium is required to traverse such a span. A keystone can be inserted into the Keystone Receptacle in order to lock the gateway to the keystone's rune combination.
-compendium.gateway.page2=Only then by activating another gateway with a matching keystone can one arrive at the keyed gateway. If the key does not match or no keystone is held at all when the gate is activated, it will be as if the keyed gateway doesn't even exist. This method can be used to control where you will wind up in the gateway network.
+compendium.crafting_altar_structure.page1=创法祭坛利用创造之力， 让魔法师们能造就魔法的奇迹。 在魔法艺术中，这里就是你创造所有法术的地方。 这个结构能被两类方块升级， 顶部材料和主要材料。 两类方块都可以分别提升祭坛的能力， 使其能创造出更强大的法术。
+compendium.crafting_altar_structure.page2=升级可以累积叠加， 比如主要材料是木板，顶部材料是玻璃，这样创造的每个法术中最多有2种效果， 然而用石砖做主要材料， 红石做顶部材料， 这样创造的每个法术中做多能有4种效果。
+compendium.gateway.page1=用时空之门进行短途旅行是非常有效率的， 但长途旅行就会消耗相当多的以太能。 据测试，时空之门的最远传送距离大致有12km， 但是跨越这么大范围的空间需要数量极其庞大的以太能。 将楔石插到楔石插槽中， 就能用楔石的符文组合（即“键”）锁住时空之门。
+compendium.gateway.page2=用已经有键的楔石去激活另一个不匹配的时空之门， 你就能到达相匹配的时空之门。 当时空之门激活时，如果楔石的键不匹配或者你根本没拿上楔石， 它就会把有键的时空之门当做不存在。 这种特性能让你在时空之门网络中控制自己将会飞到的地方。
 
 #Blocks
 
@@ -1738,92 +1738,92 @@ compendium.inscription_upgrades.page1=These upgrades improve the functionality o
 
 #Mobs
 
-compendium.category.mob.name=Mobs
-compendium.category.mob.flicker.name=Flickers
+compendium.category.mob.name=生物
+compendium.category.mob.flicker.name=闪光
 
-compendium.mob.hecate.name=Hecate
-compendium.mob.mana_elemental.name=Mana Elemental
-compendium.mob.mana_creeper.name=Mana Creeper
-compendium.mob.light_mage.name=Light Mage
-compendium.mob.dark_mage.name=Dark Mage
-compendium.mob.fire_elemental.name=Fire Elemental
-compendium.mob.water_elemental.name=Water Elemental
-compendium.mob.earth_elemental.name=Earth Elemental
-compendium.mob.dryad.name=Dryad
-compendium.mob.darkling.name=Darkling
-compendium.mob.hellcow.name=Hell Cow
+compendium.mob.hecate.name=赫卡特
+compendium.mob.mana_elemental.name=魔力元素
+compendium.mob.mana_creeper.name=魔力苦力怕
+compendium.mob.light_mage.name=光之魔法师
+compendium.mob.dark_mage.name=暗之魔法师
+compendium.mob.fire_elemental.name=火之元素
+compendium.mob.water_elemental.name=水之元素
+compendium.mob.earth_elemental.name=地之元素
+compendium.mob.dryad.name=树精
+compendium.mob.darkling.name=黑暗之影
+compendium.mob.hellcow.name=地狱奶牛
 
-compendium.hecate.page1=The hecate is a dark spirit from the nether. Occasionally, the walls between the Nether and the Overworld can weaken, allowing the Hecates to spawn in the overworld. The hecate is an assassin - it moves extremely fast and can turn invisible briefly when attacking. They deal a large amount of damage, but thankfully don't have much in terms of resilience It's rumored that if you move slowly and quietly enough, you can pass by them undetected as long as you don't get too close.
-compendium.mana_elemental.page1=The mana elemental is a combination of vinteum shards held together by bolts of Etherium. They are towering creatures, often reaching 3m in height. They attack with bolts of raw mana that lash out, dealing minor damage but stealing mana, and return to the elemental, healing it based on the amount of mana stolen. They are highly resistant to physical damage. If all the mana is drained from the elemental, it will die.
-compendium.mana_creeper.page1=The mana creeper is a variant on the normal creeper, but instead of a violent explosion, the mana creeper disintegrates into a mana vortex, which will drain the mana of everything nearby. The vortex grows the longer it lives, but luckily all of them don't last for more than a few seconds. The vortex drains more mana the more you have, so it is still a threat to even the most powerful of magi.
-compendium.light_mage.page1=Light magi are part of the white council. They are powerful mages who have dedicated themselves to the forces of light. They will heal friendly players and assist them in combat against the various enemies that plague the world of Minecraft. They have a special distaste for Dark Mages.
-compendium.dark_mage.page1=Dark magi are part of the Black Court. They are sinister casters who are capable of terrifying feats of magic. These feats come at a price though, dark magi are reviled and twisted beings. They will fight anything living except the undead (which tehnically aren't "living" anyways) and creepers. They will go out of their way to fight a Light Mage.
-compendium.fire_elemental.page1=Fire elementals are beings of pure fire. They are destructive and ignite anything in their path. Fire Elementals are only found in the nether.
-compendium.water_elemental.page1=Water elementals are beings of pure water. They are found anywhere water is in abundance. They attack in groups, using water to push and pull their target. They can affect their targets with Watery Grave, which will pull unsuspecting down to the crushing black depths.
-compendium.earth_elemental.page1=Earth elementals are found slumbering deep within caves. They are passive by nature, and boast an extreme resistance to physical damage. Combined with a high health pool, anyone learning to summon one could conjure up a veritable tank. Their attacks force the target to focus on them and they will try to bounce from target to target.
-compendium.dryad.page1=Dryads are peaceful creatures often found in forests and grasslands. They can be lured with a sapling and will periodically make nearby plants grow faster.
-compendium.darkling.page1=Darklings are small dog-like creatures that are found in the nether. Their body becomes less visible during night, fading to near invsibility at midnight. As dawn approaches, the Darklings will begin to gradually appear again until they become fully visible again for the day.
-compendium.hellcow.page1=Moo? Moo moo moo, moo moo moo moo. Moo. Moo moo moo moo moo, moo moo moo? Moo! Moo moo moo moo moo - moo moo moo. !d 1.) Moo moo moo moo !d 2.) Moo, moo moo moo moo. !d 3.) Moo! !d Moo, moo moo moo, moo moo moo. Moo moo moo moo moo moo. Moo, moo!
+compendium.hecate.page1=赫卡特是来自下界的黑暗精神体。 偶然的， 下界与主世界间的次元壁会暂时变得薄弱， 让赫卡特有时也能出现在主世界。 赫卡特是致命的刺客 - 它的移动速度极其快速， 在攻击时还能使自己短暂隐身。 它们会造成大量伤害， 但值得感激的是它们不算太坚韧。 传闻你只要移动的够慢够小声， 你就能在不被它发现的情况下通过它， 当然你也不能靠它太近了。
+compendium.mana_elemental.page1=魔力元素是在以太能的冲击下结合在一起的温特姆碎片的集合体。 它们是高大的生物， 通常能有3m高。 魔力元素用原生魔力组合成闪电进行猛击， 虽然只会造成轻微的伤害但是会窃取魔力并将魔力回归为元素， 并根据窃取到的魔力量来治愈自己。 它们有很强的物理抗性。 如果元素中所有的魔力都被吸走了， 它们就会消散。
+compendium.mana_creeper.page1=魔力苦力怕是普通苦力怕的变种， 但魔力苦力怕并不会激动到炸裂， 取而代之的是，魔力苦力怕会裂解成魔力旋涡， 从旁边的所有物体中吸取魔力。 旋涡会随着存在时间的增加而扩大， 幸运的是所有旋涡都只会存在数秒。 你拥有的魔力越多，旋涡吸取的魔力就越多， 因此即使是对于最强大的魔法师来说它们也是个威胁。
+compendium.light_mage.page1=光之魔法师是白议会的成员。 它们是献身于光明力量的强大魔法师。 在对抗那些使Minecraft世界陷入灾祸的敌人的战斗中， 它们会治愈并辅助友方玩家。 它们特别的厌恶暗之魔法师。  !d  “圣光啊，这个直人敌得一战！”
+compendium.dark_mage.page1=暗之魔法师是黑法院的成员。 它们是能施展出骇人魔法技能的阴险魔法师。 然而作为获得这些技能的代价， 暗之魔法师成为了被世人斥骂的扭曲存在。 他们会攻击任何活着的生物除了不死族 (从技术上来说也不算 "活着" ) 和苦力怕。 他们会想尽办法和光之魔法师战斗。
+compendium.fire_elemental.page1=火之元素由纯粹的火焰构成。 他们会点燃经过的一切， 非常具有破坏性。 火之元素只能在下界找到。  !d  “リア充爆発しろ！”“哞！”
+compendium.water_elemental.page1=水之元素是由纯净的水构成的。 在任意一个有大量水的地方都能找到它们。 它们通常是群体进攻， 用水把它们的目标拽过来推过去拽过来推过去。 它们能用水的兆宅影响它们的目标, 将其拉到无法预料的压倒性的黑暗深处中。
+compendium.earth_elemental.page1=在洞穴中能找到深深沉睡的地之元素。 自然来说它们是中立生物， 拥有着引以为豪的极高物理抗性， 加上它的高生命值， 任何一个学习过召唤它的人都能随地召唤一个真正的T。 它们的攻击会向目标施加嘲讽， 并且会尝试在目标之间冲撞反弹。
+compendium.dryad.page1=树精是和平的生物， 通常在森林里和草原上能找到它们。 它们会被树苗引诱， 还会不定期的催生周围的植物。
+compendium.darkling.page1=黑暗之影是一种类似狗的小型生物，能在地狱找到它们。 它们的身体在夜晚时会越来越透明， 逐渐褪色，到午夜就几乎看不见了。 黎明到来时， 黑暗之影会渐渐的再次现形， 直到能在白天完全看到它们。
+compendium.hellcow.page1=哞？ 哞哞哞， 哞哞哞哞。 哞。 哞哞哞哞哞， 哞哞哞？ 哞！ 哞哞哞哞哞 - 哞哞哞。 !d 1.) 哞哞哞哞 !d 2.) 哞， 哞哞哞哞。 !d 3.) 哞！ !d 哞， 哞哞哞， 哞哞哞。 哞哞哞哞哞哞。 哞，哞！  !d 等一下，哞字怎么写来着…… !d 顺便一提，它们的角一砍下来就是自带附魔的， 可以喂给[数据删除]的发电机
 
-compendium.mob.flicker.flickers.name=Flickers
-compendium.mob.flicker.water_flicker.name=Water Flicker
-compendium.mob.flicker.air_flicker.name=Air Flicker
-compendium.mob.flicker.earth_flicker.name=Earth Flicker
-compendium.mob.flicker.fire_flicker.name=Fire Flicker
-compendium.mob.flicker.lightning_flicker.name=Lightning Flicker
-compendium.mob.flicker.nature_flicker.name=Nature Flicker
-compendium.mob.flicker.ice_flicker.name=Ice Flicker
-compendium.mob.flicker.arcane_flicker.name=Arcane Flicker
-compendium.mob.flicker.life_flicker.name=Life Flicker
-compendium.mob.flicker.ender_flicker.name=Ender Flicker
+compendium.mob.flicker.flickers.name=闪光
+compendium.mob.flicker.water_flicker.name=水之闪光
+compendium.mob.flicker.air_flicker.name=风之闪光
+compendium.mob.flicker.earth_flicker.name=地之闪光
+compendium.mob.flicker.fire_flicker.name=火之闪光
+compendium.mob.flicker.lightning_flicker.name=电之闪光
+compendium.mob.flicker.nature_flicker.name=自然闪光
+compendium.mob.flicker.ice_flicker.name=冰之闪光
+compendium.mob.flicker.arcane_flicker.name=奥术闪光
+compendium.mob.flicker.life_flicker.name=生命闪光
+compendium.mob.flicker.ender_flicker.name=末影闪光
 
-compendium.flickers.page1=Flickers are lesser elementals from the various elemental planes that have crossed over into our world. Their magical bond is tenuous at best and they are known for "Flicking" back and forth between their plane and ours. They are the starting point for #5Ars Magica Automation#0. !d Flickers are timid by nature and will flick back to their own dimension if attacked, or if they feel threatened. Giving them a modicum of magic in the form of #5some sort of lasting effect#0 makes them feel more comfortable and less likely to run away. #5Flickers can be captured inside of a Flicker Jar#0.
-compendium.flickers.page2=There is one type of flicker for each affinity. Flickers of each affinity will behave differently. For example, Air Flickers tend to like to stay higher above the ground, while Earth Flickers will prefer to stay low. !d Flickers of each affinity can be found near regions of the world that remind them of their affinity.
-compendium.water_flicker.page1=5Water Flickers#0 will be found in areas that are predominantly water, like swmaps, rivers, and oceans.
-compendium.air_flicker.page1=#5Air Flickers#0 can be found anywhere not underground, and will fly around higher in the sky (~25 blocks above the ground).
-compendium.earth_flicker.page1=#5Earth Flickers#0 can be found anywhere, but they prefer underground locations. They will stay close to the ground.
-compendium.fire_flicker.page1=#5Fire Flickers#0 can be found in the nether..
-compendium.lightning_flicker.page1=#5Lightning Flickers#0 can be found on beaches and over oceans in the sky, where storms like to form. They can be found in all areas if it is storming.
-compendium.nature_flicker.page1=#5Nature Flickers#0 can be found in forests.
-compendium.ice_flicker.page1=#5Ice Flickers#0 can be found in frozen areas, such as Taiga.
-compendium.arcane_flicker.page1=#5Arcane Flickers#0 can be found in magical areas. They very much like Witchwood Forests.
-compendium.life_flicker.page1=#5Life Flickers#0 can be found anywhere. Any flicker spawning has a small chance to be a life flicker rather than whatever else it could be.
-compendium.ender_flicker.page1=#5Ender Flickers#0 are found in the end. Occasionally, a teleporting Enderman can open a rift large enough for Ender Flickers to slip through.
+compendium.flickers.page1=闪光是稀薄的元素体， 来自各个与我们的世界交叉重叠的元素位面。 它们与魔力的结合程度充其量只能算脆弱， 因此闪光素以来来回回的在它们和我们的位面间 "闪烁"而著称。  它们就是 #5魔法艺术自动化#0 的出发点。 !d 闪光生性胆小，如果它们受到攻击或察觉到威胁就会闪烁回它们的次元。 以 #5一些持续效果#0 的形式给它们少量的魔法， 能让它们感觉更舒适并且不太会再逃跑 #5闪光可以闪光罐子抓住#0.
+compendium.flickers.page2=每种亲和都对应着一种闪光。 每种亲和对应的闪光都有不同的表现。 举个栗子， 气之闪光会倾向于停留在比地面更高的地方， 然而地之闪光更倾向于留在地底。 !d 每种亲和对应的闪光可以在世界中让他们想起自己所亲和元素的区域被找到。
+compendium.water_flicker.page1=#5水之闪光#0 能在主要由水构成的区域找到， 比如沼泽，河流和海洋。
+compendium.air_flicker.page1=#5风之闪光#0 除了在地下之外都能见到， 他们会在高空中飞来飞去 (约地上25格).
+compendium.earth_flicker.page1=#5地之闪光#0 能在任何地方见到， 但他们更倾向于待在地下。 地之闪光会靠近地表栖息。
+compendium.fire_flicker.page1=#5火之闪光#0 能在下界找到。
+compendium.lightning_flicker.page1=#5电之闪光#0 能在那些风暴容易形成的地方， 比如沙滩和海洋的上空找到。 如果正在下雷雨的话， 他们在每个地方都可能出现。
+compendium.nature_flicker.page1=#5自然闪光#0 能在森林里被找到。
+compendium.ice_flicker.page1=#5冰之闪光#0 能在针叶林之类的寒冷区域找到。
+compendium.arcane_flicker.page1=#5奥术闪光#0 能在有魔法的地方找到,  他们非常喜欢巫魂树森林
+compendium.life_flicker.page1=#5生命闪光#0 在任何地方都能找到。 每种闪光生成时有小概率成为生命闪光，而不是原来应该成为的那种。
+compendium.ender_flicker.page1=#5末影闪光#0 能在末地找到。 偶尔有时候， 传送的末影人会打开一个足够大的时空裂隙， 让末影闪光能从中闪过。
 
 #Bosses
 
 compendium.category.boss.name=Bosses
 
-compendium.boss.air_guardian.name=Air Guardian
-compendium.boss.arcane_guardian.name=Arcane Guardian
-compendium.boss.earth_guardian.name=Earth Guardian
-compendium.boss.fire_guardian.name=Fire Guardian
-compendium.boss.life_guardian.name=Life Guardian
-compendium.boss.lightning_guardian.name=Lightning Guardian
-compendium.boss.ender_guardian.name=Ender Guardian
-compendium.boss.nature_guardian.name=Nature Guardian
-compendium.boss.water_guardian.name=Water Guardian
-compendium.boss.winter_guardian.name=Winter Guardian
+compendium.boss.air_guardian.name=风之守护者
+compendium.boss.arcane_guardian.name=奥术守护者
+compendium.boss.earth_guardian.name=地之守护者
+compendium.boss.fire_guardian.name=火之守护者
+compendium.boss.life_guardian.name=生命守护者
+compendium.boss.lightning_guardian.name=电之守护者
+compendium.boss.ender_guardian.name=末影守护者
+compendium.boss.nature_guardian.name=自然守护者
+compendium.boss.water_guardian.name=水之守护者
+compendium.boss.winter_guardian.name=冬之守护者
 
-compendium.air_guardian.page1=The Air Guardian is a being of wind, and makes heavy use of knockback based attacks. It would be foolish to go into battle with one without some form of falling protection. The Air Guardian is a powerful ranged caster, but it requires a great deal of focus to finish some of it's spells... !l Recommended level: 35
-compendium.air_guardian.page2=To summon the Air Guardian, climb up well above the clouds and build a platform (y 150 or higher). Build a gold inlay ring on the platform and throw in an Air Essence.
-compendium.arcane_guardian.page1=A mage of ancient times, the Arcane Guardian has access to a wide variety of spells. From attacks to buffs to debuffs, prepare for a magical duel that will test your counterspell knowledge. Protected by a powerful sigil, the Arcane Guardian has as many tricks against melee opponents as it does against ranged attackers. !l Recommended level: 45
-compendium.arcane_guardian.page2=To summon the Arcane Guardian, first construct a Shrine of Knowledge. The shrine is 2 pillars of bookshelves, 3 high, with a lectern on the ground in between them containing an Arcane Compendium. Place an iron inlay circle directly in front of the structure, and throw an Arcane Essence directly in the middle of the circle to start the ritual.
-compendium.earth_guardian.page1=Formed out of a core of stone, the Earth Guardian is a hardy opponent that can withstand incredible amounts of physical attacks. With whirling attacks and strength of the earth itself, be prepared for a fight. !l Recommended level: 25
-compendium.earth_guardian.page1=To summon the Earth Guardian, first build a 3x3 obsidian platform with a chiseled stone brick at the centre. On top of the obsidian, build an iron inlay ring. Off of each side, on the same level as the inlays, place a vinteum torch. Then throw in a blue topaz, an emerald, and a chimerite. !d Upon summoning, the Earth Guardian will cleave out a large area of the surrounding blocks, so it would be wise to summon somewhere other than your basement. 
-compendium.fire_guardian.page1=The Fire Guardian is a living inferno from the depths of the nether. To summon it, create a gold inlay ring in the nether on top of obsidian with a coal block in the middle. Throw a water essence onto the coal and the fire guardian will appear. Be warned though, it does not take kindly to those that try to bring water to its domain. Be prepared for a fight! !l Recommended level: 90
-compendium.life_guardian.page1=The life guardian generally prefers to let the natural order of things take their course, not intervening unless a true sacriledge against life is performed. Luckily (or unluckily, depending on how you look at it) for you, you have come up with a way to commit such an act. Create a 5x5 ring using wizard's chalk, and place a warding candle in the center part of each side, on the outside of the ring (4 candles in total). 
-compendium.life_guardian.page2=The circle will help to contain and focus the deed. Then, on the night of a full moon, sacrifice a villager child inside the circle. That should be enough to anger the life guardian to action. !d You monster you.
-compendium.life_guardian.page3=The life guardian doesn't attack much on its own, though it may decide to throw you around a little. It generally prefers to let others do the fighting for it, infusing them with its tremendous power. In return, the others will often lay down their lives for the guardian's protection. The life guardian is a different kind of fight than the other guardians. !d Recommended level: 50
-compendium.lightning_guardian.page1=The lightning guardian is as unpredictable as it is powerful. It can fire bolts of lightning at extreme range, and has been known to mess with the synapses inside the brains of living creatures. It has also on occasion been able to replicate an effect similar to telekinesis using massive amounts of concentrated static electricity, which leaves the unfortunate victim open to several other effects.
-compendium.lightning_guardian.page2=To summon the lightning guardian, create a #5Gold Inlay Ring#0 and place a mana battery in the middle. Then, place 2 iron bars on top, creating a lightning rod. !d Finally, wait for a storm. !d This guardian is capable of doing extreme damage in a short amount of time. Make sure you are well protected. Recommended Level: 70
-compendium.ender_guardian.page1=Tales are told in hushed whispers of the true guardian of the End. Of eyes glowing with an abhorrent light, and scaly skin as black as a moonless night. Alas, the tales of this waking nightmare are vague at best and always shrouded in the veil of speculation. The truth is, nobody has ever seen the guardian and lived. The most common tale is that of Magnus Severinus, the Archmage of the Second Era. 
-compendium.ender_guardian.page2=At the height of his power, he was rumored to be able to move mountains with a thought, create lush gardens out of the most barren terrain, and create wards that could stop an army cold. Alas, his most trusted advisor took ill, and her spiteful stepson had taken her place. Goaded by honeyed words encouraging his power and making him arrogant, he gathered the conclave together and in front of them all, tore open the fabric between worlds, opening a portal to the end that pulsed with a soft purple glow that almost seemed to draw light away from its surroundings.
-compendium.ender_guardian.page3=He stepped in, and summoned the guardian. He never had time to scream. A piece of paper, flecked with bits of dark blood, flitted back through the portal and it winked shut. Upon the paper was the following ritual:
-compendium.ender_guardian.page4=In the End, around a black aurem atop a platform of blackest coal, create an inlay of gold. Light a burning fire on each side of the inlay. Throw in an Ender Essence and an Eye of Ender to destabilize the aurem and summon the guardian. !d The paper was locked away in magical vaults and forgotten for millenia...until now.
-compendium.nature_guardian.page1=The Nature Guardian is a fearsome opponent. Boasting a deadly scythe and the skill to use it, only the most powerful or foolish would seek it out. The few who have survived an encounter state that it is just as dangerous at range as in melee, if not more. !l Recommended level: 60
-compendium.nature_guardian.page2=Rumor has it that it appears to guard the servants of nature when enough are slain in quick succession. Nature can be harsh, but it will not tolerate a massacre. !d Warning: !l This is a very difficult boss that can take down even the most well geared players. 
-compendium.water_guardian.page1=The guardian of water is a unique being. It is always in a state of fluidity, making it able to shrug off attacks occasionally. It is a trickster as well, flowing into copies of itself and attacking from ambush if one is fooled by the decoy. !l Recommended level: 10
-compendium.water_guardian.page2=The water guardian can be summoned by creating a redstone inlay circle in any biome that is predominantly water. Then, while raining, throw a boat and a bucket of water into the circle as homage to the many ships lost at sea. 
-compendium.winter_guardian.page1=The Winter Guardian is truly the embodiment of it's namesake. Surrounded by frigid winds that sap the strength of all who near it, the Winter Guardian pummels its frozen foes and shatters them with powerful strikes.
-compendium.winter_guardian.page2=To summon the Winter Guardian, seek out an area in the grips of winter. Place a gold inlay circle on the ground and build an effigy to the Winter Guardian in the centre, Ice on top of two Blue Topaz blocks. Then create 3 snow golems close by to fuel the summoning. !d Warning: !l This is a very difficult boss that can take down even the most well geared players. 
+compendium.air_guardian.page1=风之守卫者是风一般的存在， 会频繁的使用以击退为主的攻击。 如果没有准备好一些防止摔落伤害的措施的话， 和它战斗会是愚蠢的行为 。 同时风之守卫者也是强力的远程魔法师， 但如果它想要完成某些法术的咏唱，需要非常集中的精神... !l 推荐魔法等级: 35
+compendium.air_guardian.page2=要召唤风之守护者， 你需要爬到云层之上并搭建一个平台 (y轴坐标150及以上)。 再在平台上将金质镶嵌物摆成一个环，最后扔入一个风之精华。
+compendium.arcane_guardian.page1=作为一个上古时代的魔法师， 奥术守护者能使用各种各样的法术。 从攻击到增益再到异常状态，准备好迎接魔法的决斗，这将是一场将测试你反制法术的知识的决斗。 奥术守护者被强力的图章所保护， 无论对手是近战还是远程，它都能使用很多的招数来对抗。 !l 推荐魔法等级: 45
+compendium.arcane_guardian.page2=要召唤奥术守护者， 首先你需要搭建一个知识圣坛。 要搭建圣坛， 你需要一个放入了奥法纲目的讲台， 紧挨着讲台的两边各摆上一个3个格高的书架柱子。 召唤时，在圣坛的正前方用铁质镶嵌物摆成一个环， 然后在环的中间扔入一个奥术精华就能启动召唤仪式。
+compendium.earth_guardian.page1=地之守护者有着用岩石之核造就的坚硬身躯。 作为一个坚韧的对手， 它能够挡下多到难以置信的物理伤害。 小心他的螺旋攻击和大地之力， 准备好迎接激战。 !l 推荐魔法等级: 25
+compendium.earth_guardian.page1=要召唤地之守护者， 首先搭建一个3x3黑曜石平台， 黑曜石中间围着一个錾制石砖。 黑曜石圈上摆一圈铁质镶嵌物。 在圆环（哪里圆了喂）的4条边旁，与镶嵌物同一高度， 分别放上一个个温特姆火把。 然后扔入一个蓝水晶， 一个绿宝石， 还有一个炫彩矿石。 !d 被召唤出来后， 地之守护者会将周围的方块削掉一大片， 所以最好不要在你的基地里召唤它。
+compendium.fire_guardian.page1=火之守护者是一团来自下界深处的地狱活火。 要召唤它， 你需要在下界用一圈黑曜石围着一个煤炭块，在黑曜石上放置一圈金质镶嵌物。 将水之精华扔到煤炭块上， 火之守护者就会出现。 事先警告一下， 它不喜欢那些尝试把水带入这个领域的家伙。 准备好迎接激战！ !l 推荐魔法等级: 90
+compendium.life_guardian.page1=生命守护者通常倾向于让事物的发展按照自然秩序进行， 除非是真正亵渎了生命的行为， 否则它是不会干预的。 对你来说很幸运 (又或者不幸， 取决于你怎么看它) ， 你想出了一个犯下前述行为的办法。 用法师粉笔画一个5x5的环， 然后在在每一边中点的外侧各放一个守护蜡烛  (总计4个)。
+compendium.life_guardian.page2=这个圈会有利于容纳和集中这个行为。 然后，在满月的夜晚， 在圈里献祭一只村民的孩子。 这应该足够让生命守护者愤怒到做出行动。 !d 你真是个畜生。
+compendium.life_guardian.page3=虽然生命守护者决定稍微把你向四处扔一扔， 但本身并不会进行太多攻击。 生命守护者通常会让其他生物来为它战斗， 并未那些生物注入它强大的力量。 作为回报， 那些生物会奋不顾身的保护生命守护者。 综上所述， 与生命守护者的战斗将会是一场与其他守护者不同的战斗。 !d 推荐魔法等级: 50
+compendium.lightning_guardian.page1=电之守护者变换莫测且十分强力。它能在极限距离发射雷电冲击， 另外它还能扰乱生物大脑里的神经系统。 电之守卫者有时能够 使用大量集中的静电复制一个类似心灵感应效果， 使不幸的受害者对接下来的影响毫无防备。
+compendium.lightning_guardian.page2=要召唤电之守卫者， 摆放一环 #5金质镶嵌物#0 然后将魔力池放在中间。 然后， 在魔力池顶部放置两个铁栅栏， 做成一个避雷针的样子。 !d 最后，等待雷雨的到来。 !d 这位守护者能够在短时间内造成极高的伤害。 战斗前请准备好防护措施。 推荐魔法等级: 70
+compendium.ender_guardian.page1=安静低语着的传说叙述着末地真正守护者的故事。 那发出遭人厌恶之光芒的眼睛， 那如无月之夜般漆黑的鳞鳞皮肤。 唉， 关于这苏醒的梦魇的传说， 最清晰地方也很模糊， 并总是被胡乱猜想的面纱所掩盖。 但有一个事实， 没有人在见到这个守护者后存活下来。 最常见的传说呢， 是有关第二纪元的大法师， Magnus Severinus（玛格努斯 塞维林）的 。 
+compendium.ender_guardian.page2=传闻他在巅峰时期时， 只要他想，就能移动一座山， 将荒芜贫瘠之地变成苍翠繁茂的花园， 甚至能创造一个守卫使整个军队完全停下。 唉， 可是天有不测风云， 他最信任的导师病了， 然后导师那不怀好意的继子取代了导师的位置。 导师的继子用甜言蜜语吹捧他的力量， 使他变得自大。 他将所有议会的人召集到一起，并在他们面前将次元间的壁障撕裂， 打开了一道通往末地的传送门， 那柔紫色光晕脉动着， 看上去几乎要将将光从周围拽走。
+compendium.ender_guardian.page3=他踏入传送门， 召唤了守护者。 他甚至都没有时间尖叫。 一张纸， 上面沾着斑斑的模糊血迹， 从传送门飘出， 然后传送门闪烁了一下，关上了。 那张纸上写着一个仪式:
+compendium.ender_guardian.page4=在末地， 用最黑的煤炭块（煤炭块都是一般黑）搭好3x3的平台， 在中间放上黑暗之耳， 在黑暗之耳周围摆上一环金色镶嵌物。 在镶嵌物环的每一边外侧燃起熊熊火焰。 向环内扔入一个末影源质和一个末影之眼，将黑暗之耳的稳定破坏以召唤守护者。 !d 这张纸被锁在魔法保管库里，被遗忘了千年...直到现在。
+compendium.nature_guardian.page1=自然守护者是十分可怕的对手。 自然守护者常夸耀自己的致命的镰刀和高超的使用技巧， 只有最强大的人或是一个傻瓜才会想把它找出来。 至少，能从偶有的，近战和远程都危险的情况下幸存下来的，只有少数人。 !l 推荐魔法等级: 60
+compendium.nature_guardian.page2=传说当足够多的自然从者被短时间内连续击杀时， 自然守护者就会出现来保护自然从者（其实就是树精）。 自然是严酷的，但它并不会允许大屠杀。 !d 警告: !l 这是一个十分具有挑战性的boss， 甚至能够放到装备最好的玩家。 
+compendium.water_guardian.page1=水之守护者是个独特的存在。 它总是以液态的形式存在， 这让它有时候能够轻易的让攻击穿过它。 水之守护者还是个骗术师， 如果有人被诱饵欺骗到，它就会流进它的复制体并从潜行中出击 !l 建议魔法等级: 10
+compendium.water_guardian.page2=水之守护者能在任何主要由水构成的生物群系里，通过摆放一环红石镶嵌物被召唤。 放好后，在下雨时， 将一艘船和一桶水扔如环中， 向许多迷失在大海中的船只致敬。
+compendium.winter_guardian.page1=冬之守护者正是其名称的真正具象化。 周身环绕的刺骨寒风使任何靠近守卫者的敌人感到力量衰竭， 随后冬之守护者连续的挥出它冰结的拳头，用强力的攻击粉碎它的敌人。
+compendium.winter_guardian.page2=要召唤冬之守卫者， 你需要找到一片被寒冬笼罩的区域， 放置一环金质镶嵌物并在中间搭建一个冬之守护者的雕像： 两个堆叠的蓝水晶块，再在它们上面放一块冰。 然后在附加制造3个雪傀儡用做召唤仪式的燃料。 !d 警告: !l 这是一个十分具有挑战性的boss， 甚至能够放到装备最好的玩家。 
