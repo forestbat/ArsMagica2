@@ -83,12 +83,12 @@ item.arsmagica2:greater_mana_potion.name=卓越魔药
 item.arsmagica2:legendary_mana_potion.name=传奇魔药
 item.arsmagica2:lesser_mana_potion.name=小型魔药
 item.arsmagica2:standard_mana_potion.name=标准魔药
-item.arsmagica2:inf_orb_blue.name=蓝无尽宝珠
-item.arsmagica2:inf_orb_green.name=绿无尽宝珠
-item.arsmagica2:inf_orb_red.name=红无尽宝珠 
-item.arsmagica2:inf_orb_magenta.name=品红无尽宝珠 
-item.arsmagica2:inf_orb_yellow.name=黄无尽宝珠
-item.arsmagica2:inf_orb_cyan.name=青无尽宝珠
+item.arsmagica2:inf_orb_blue.name=蓝技能球
+item.arsmagica2:inf_orb_green.name=绿技能球
+item.arsmagica2:inf_orb_red.name=红技能球
+item.arsmagica2:inf_orb_magenta.name=品红技能球
+item.arsmagica2:inf_orb_yellow.name=黄技能球
+item.arsmagica2:inf_orb_cyan.name=青技能球
 item.arsmagica2:greater_focus.name=卓越核心
 item.arsmagica2:mob_focus.name=怪物核心
 item.arsmagica2:arcane_compendium.name=奥法纲目
@@ -292,64 +292,62 @@ am2.npc.partyjoin=我将把背后交给你！
 am2.npc.partyleave=祝你好运，伙计。
 am2.npc.partyrefuse=我只跟随强者。
 ##air
-affinityability.agile.name=乘奔御风
-affinityability.lightasafeather.name=轻如羽毛
+affinityability.agile.name=腾跃
+affinityability.lightasafeather.name=轻羽
 
 ##arcane
-affinityability.clearcaster.name=Clearcaster
+affinityability.clearcaster.name=清扫
 affinityability.magicweakness.name=魔法虚弱
-affinityability.onewithmagic.name=魔法核心
+affinityability.onewithmagic.name=聚焦
 
 ##earth
-affinityability.solidbones.name=钢筋铁骨
-affinityability.stoneskin.name=石头皮肤
+affinityability.solidbones.name=钢骨
+affinityability.stoneskin.name=石皮
 
 ##ender
-affinityability.nightvision.name=Darkvision
-affinityability.relocation.name=Relocation
-affinityability.poisonresistance.name=Resistant to Poison
-affinityability.sunlightweakness.name=Weakness to Sunlight
-affinityability.waterweakness_ender.name=Weakness to Water
+affinityability.nightvision.name=夜视
+affinityability.relocation.name=瞬移
+affinityability.poisonresistance.name=毒抗
+affinityability.sunlightweakness.name=日光虚弱
+affinityability.waterweakness_ender.name=水虚弱
 
 ##fire
-affinityability.firepunch.name=Fire Punch
-affinityability.fireresistance.name=Resistant to Fire
-affinityability.waterweakness_fire.name=Weakness to Water
-
+affinityability.firepunch.name=火拳
+affinityability.fireresistance.name=火抗
+affinityability.waterweakness_fire.name=水虚弱
 ##ice
-affinityability.coldblooded.name=Cold Blooded
-affinityability.lavafreeze.name=Frozen Footsteps (Lava)
-affinityability.waterfreeze.name=Frozen Footsteps (Water)
+affinityability.coldblooded.name=冷血
+affinityability.lavafreeze.name=冰霜行者(岩浆)
+affinityability.waterfreeze.name=冰霜行者(水)
 
 ##life
-affinityability.fasthealing.name=Fast Healing
-affinityability.pacifist.name=Pacifist
-
+affinityability.fasthealing.name=速愈
+affinityability.pacifist.name=和平
 ##water
-affinityability.antiendermen.name=Endermen-Repellant
-affinityability.expandedlungs.name=Expanded Lungs
-affinityability.fireweakness.name=Fire Weakness
-affinityability.fluidity.name=Fluidity
-affinityability.swiftswim.name=Swift Swimmer
+affinityability.antiendermen.name=末影排斥
+affinityability.expandedlungs.name=大肺活量
+affinityability.fireweakness.name=火虚弱
+affinityability.fluidity.name=流体化
+affinityability.swiftswim.name=快泳
 
 ##nature
-affinityability.harvester.name=Harvester
-affinityability.leaflike.name=Leaf on the Wind
-affinityability.photosynthesis.name=Photosynthesis
-affinityability.rooted.name=Rooted
-affinityability.thorns.name=Thorns Aura
+affinityability.harvester.name=收割者
+affinityability.leaflike.name=风中樱花
+affinityability.photosynthesis.name=光合作用
+affinityability.rooted.name=生根
+affinityability.thorns.name=荆棘花冠
 
 ##lightning
-affinityability.fulmination.name=Fulmination
-affinityability.reflexes.name=Lightning Reflexes
-affinityability.lightningstep.name=Lightning Step
-affinityability.shortcircuit.name=Short Circuit
-affinityability.thunderpunch.name=Thunderpunch
-affinityability.waterweakness_lightning.name=Weakness to Water
+affinityability.fulmination.name=爆发
+affinityability.reflexes.name=电击反射
+affinityability.lightningstep.name=闪电步
+affinityability.shortcircuit.name=短路
+affinityability.thunderpunch.name=雷拳
+affinityability.waterweakness_lightning.name=水虚弱
 
 #Rituals
-ritual.arsmagica2:astral_distortion.name=Ritual of Corruption
-ritual.arsmagica2:banish_rain.name=Ritual of the Rain
+ritual.arsmagica2:astral_distortion.name=腐坏仪式
+ritual.arsmagica2:banish_rain.name=降雨仪式
 ritual.arsmagica2:blind.name=Ritual of Duration
 ritual.arsmagica2:watery_grave.name=Ritual of Duration
 ritual.arsmagica2:water_breathing.name=Ritual of Duration
