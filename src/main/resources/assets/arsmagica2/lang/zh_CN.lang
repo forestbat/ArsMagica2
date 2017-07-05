@@ -1173,9 +1173,9 @@ compendium.talent.augmented_casting.name=增广法术咏唱
 compendium.talent.extra_summon.name=额外召唤
 compendium.talent.mage_posse_i.name=聚魔之誉 I
 compendium.talent.mage_posse_ii.name=聚魔之誉 II
-compendium.talent.mana_regen_i.name=魔力恢复 I
-compendium.talent.mana_regen_ii.name=魔力恢复 II
-compendium.talent.mana_regen_iii.name=魔力恢复 III
+compendium.talent.mana_regen_i.name=魔力再生 I
+compendium.talent.mana_regen_ii.name=魔力再生 II
+compendium.talent.mana_regen_iii.name=魔力再生 III
 compendium.talent.spell_motion.name=灵活施法
 
 compendium.affinity_gains.page1=你确信了元素调和比奥术知识更重要。 现在你获取亲和力的速度将比以往更快， 代价是魔法经验的获取会更慢。 这将是一个永久性影响。
